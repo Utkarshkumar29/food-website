@@ -1,0 +1,99 @@
+*
+{
+    margin:0;
+    padding: 0;
+}
+
+body
+{
+    background: url(https://bsaitm.anangpuria.com/wp-content/uploads/2018/04/cse-back.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+.container
+{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 38%;
+}
+
+.container h1
+{
+    font-size: 40px;
+    border-bottom: 4px solid palegreen;
+    margin-bottom: 45px;
+    padding: 13px 0;
+}
+
+.box
+{
+    width: 100%;
+}
+
+.box input
+{
+    
+    width: 80%;
+    border: none;
+    outline: none;
+    margin: 14px 0px;
+    font-size: 24px;
+    padding: 6px 0px; 
+    background: none;
+    color: azure;
+    border-bottom: 2px solid hotpink;
+}
+
+.box i
+{
+    color: black;
+    width: 25px;
+    text-align: center;
+    padding-left: 12px;
+}
+
+.btn{
+    position: relative;
+    top:15px;
+    left:-14px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    margin: 12px 0;
+    padding: 10px 21px;
+    border: 2px solid aqua;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration:none;
+}
+
+#top
+{
+    position: absolute;
+    top: 20%;
+}
+
+.cont
+{
+    position: absolute;
+    top: 20px;
+    left: 24px;
+}
+
+.container h1
+{
+    text-align: center;
+}
+
+.button
+{
+    position: absolute;
+    transform: translateY(00%);
+    transform: translateX(110%);
+}
+
+/*https://bsaitm.anangpuria.com/wp-content/uploads/2018/05/bsaitm-logo.png
+ 
+
+
